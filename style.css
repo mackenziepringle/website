@@ -99,6 +99,6 @@ body {
     
     .bio {
         left: 24px;
-        max-width: min(calc(100vw - 48px), 360px);
+        max-width: min(calc(100vw - 48px), 340px);
     }
 } 
